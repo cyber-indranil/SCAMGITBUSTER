@@ -1,0 +1,25 @@
+# Documentation-only public showcase
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.env
+.env.*
+*.db
+*.sqlite*
+*.apk
+*.zip
+*.tar
+*.tar.gz
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+*.log
+*.bak
+private/
+evidence/
+backups/
+secrets/
+config/private/

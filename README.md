@@ -45,7 +45,7 @@ SCAMGITBUSTER is designed to help maintain this distinction throughout discovery
 | Investigative reports | Repository-by-repository assessments, private JSON evidence snapshots with SHA-256, print-ready reports | Operational |
 | Commit-pinned source inspection | Bounded public-code retrieval and static indicator analysis | **Experimental / incomplete coverage** |
 | Unavailable-repository handling | Record failed retrievals and retain prior observations as separate evidence | Experimental |
-| Malware execution / automatic attribution | Not performed | Out of scope |
+| Malware execution / automatic attribution | Performed through TRACEGRID Sandbox Enviorenment | Restricted Enviorenment Success |
 
 The source-inspection engine has demonstrated verification of an individual pinned source file in a controlled investigation. Later evidence-first scheduling trials have also returned **zero verified repositories despite multiple attempts**. Retrieval failures, incomplete coverage and false-negative risks are acknowledged development limitations, not concealed success conditions.
 

@@ -1,0 +1,32 @@
+{
+  "_notice": "ILLUSTRATIVE SYNTHETIC EXAMPLE ONLY. Not a real GitHub repository or investigation.",
+  "assessment": {
+    "actor_attribution": null,
+    "disposition": "INSUFFICIENT_EVIDENCE",
+    "reason": "No behavior-level evidence available. Discovery alone is not an adverse finding.",
+    "risk_score": null
+  },
+  "collection": {
+    "coverage": "partial",
+    "mode": "public-metadata-and-static-source-example",
+    "scope": "synthetic training sample",
+    "timestamp": "2026-10-18T00:00:00Z"
+  },
+  "evidence": {
+    "artifact_sha256_match": null,
+    "collection_limitations": [
+      "No real source content was acquired",
+      "No binary analysis was performed"
+    ],
+    "file_inventory": [
+      "README.md",
+      "src/example.py"
+    ],
+    "source_files_verified": 0
+  },
+  "repository": {
+    "full_name": "example-researcher/sample-project",
+    "identity": "EXAMPLE-ONLY",
+    "provider": "GitHub"
+  }
+}
